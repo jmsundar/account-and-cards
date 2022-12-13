@@ -4,3 +4,5 @@ jobs:
   build: ""
   continue-on-error: false
   pytest: ""
+  snyk: ""
+  stackhawk/hawkscan: ""
