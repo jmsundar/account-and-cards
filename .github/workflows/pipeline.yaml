@@ -1,2 +1,5 @@
-# Placeholder
-pytest
+---
+on: push
+jobs:
+  continue-on-error: false
+  pytest: ""
