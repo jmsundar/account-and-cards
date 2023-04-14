@@ -1,0 +1,18 @@
+openapi: 3.0.1
+info:
+  title: Account And Cards
+  description: this service manages accounts and cards
+  x-cortex-git:
+    github:
+      repository: extend-cortex-pov/account-and-cards
+  x-cortex-tag: account-and-cards
+  x-cortex-link:
+  - url: https://helloextend.atlassian.net/wiki/spaces/~62575fd7cdc24000704b9cac/pages/1406664705/SRE+Onboarding+Checklist+-+Jayendra
+    name: Link to Confluence
+    type: DOCUMENTATION
+  x-cortex-type: service
+  x-cortex-owners:
+  - name: SRE
+    type: group
+    provider: CORTEX
+    description: This is a description for this owner
